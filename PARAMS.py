@@ -1,0 +1,1 @@
+MAX_MONTHS = int(1e4)
